@@ -1,0 +1,14 @@
+# Target labels
+ box2d-populate
+# Source files and their labels
+/Users/saarthaksharma/CSE 335/sharm157-19/cmake-build-debug/_deps/box2d-subbuild/CMakeFiles/box2d-populate
+/Users/saarthaksharma/CSE 335/sharm157-19/cmake-build-debug/_deps/box2d-subbuild/CMakeFiles/box2d-populate.rule
+/Users/saarthaksharma/CSE 335/sharm157-19/cmake-build-debug/_deps/box2d-subbuild/CMakeFiles/box2d-populate-complete.rule
+/Users/saarthaksharma/CSE 335/sharm157-19/cmake-build-debug/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-build.rule
+/Users/saarthaksharma/CSE 335/sharm157-19/cmake-build-debug/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-configure.rule
+/Users/saarthaksharma/CSE 335/sharm157-19/cmake-build-debug/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-download.rule
+/Users/saarthaksharma/CSE 335/sharm157-19/cmake-build-debug/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-install.rule
+/Users/saarthaksharma/CSE 335/sharm157-19/cmake-build-debug/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-mkdir.rule
+/Users/saarthaksharma/CSE 335/sharm157-19/cmake-build-debug/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-patch.rule
+/Users/saarthaksharma/CSE 335/sharm157-19/cmake-build-debug/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-test.rule
+/Users/saarthaksharma/CSE 335/sharm157-19/cmake-build-debug/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-update.rule

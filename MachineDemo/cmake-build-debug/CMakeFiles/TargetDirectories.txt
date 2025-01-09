@@ -1,0 +1,6 @@
+/Users/saarthaksharma/CSE 335/sharm157-19/MachineDemo/cmake-build-debug/CMakeFiles/MachineDemo.dir
+/Users/saarthaksharma/CSE 335/sharm157-19/MachineDemo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/saarthaksharma/CSE 335/sharm157-19/MachineDemo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/saarthaksharma/CSE 335/sharm157-19/MachineDemo/cmake-build-debug/_deps/machinedemolib-build/CMakeFiles/MachineDemoLib.dir
+/Users/saarthaksharma/CSE 335/sharm157-19/MachineDemo/cmake-build-debug/_deps/machinedemolib-build/CMakeFiles/edit_cache.dir
+/Users/saarthaksharma/CSE 335/sharm157-19/MachineDemo/cmake-build-debug/_deps/machinedemolib-build/CMakeFiles/rebuild_cache.dir

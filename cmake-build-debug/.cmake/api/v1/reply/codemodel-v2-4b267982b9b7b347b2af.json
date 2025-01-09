@@ -1,0 +1,633 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						7,
+						16
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.19"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "CanadianExperienceLib",
+					"jsonFile" : "directory-CanadianExperienceLib-Debug-20f6a6e62758b176bd2a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.19"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "CanadianExperienceLib",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "MachineLib",
+					"jsonFile" : "directory-MachineLib-Debug-fda2c6da001ba720b525.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.19"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "MachineLib",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "Tests",
+					"childIndexes" : 
+					[
+						4
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Tests-Debug-0bb2ec8d84e8c19149a9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.19"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "Tests",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "_deps/googletest-build",
+					"childIndexes" : 
+					[
+						5
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.googletest-build-Debug-fa1b18db30f420365ea4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.12"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 4,
+					"source" : "cmake-build-debug/_deps/googletest-src"
+				},
+				{
+					"build" : "_deps/googletest-build/googlemock",
+					"childIndexes" : 
+					[
+						6
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.googletest-build.googlemock-Debug-3d5902574c6080c5e1d2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.12"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 5,
+					"source" : "cmake-build-debug/_deps/googletest-src/googlemock",
+					"targetIndexes" : 
+					[
+						10,
+						11
+					]
+				},
+				{
+					"build" : "_deps/googletest-build/googletest",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.googletest-build.googletest-Debug-890fd29c96f15e2b4406.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.12"
+					},
+					"parentIndex" : 5,
+					"projectIndex" : 6,
+					"source" : "cmake-build-debug/_deps/googletest-src/googletest",
+					"targetIndexes" : 
+					[
+						12,
+						13
+					]
+				},
+				{
+					"build" : "MachineTests",
+					"childIndexes" : 
+					[
+						8
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-MachineTests-Debug-4b3fe477454df789bbee.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.19"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 7,
+					"source" : "MachineTests",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "_deps/box2d-build",
+					"childIndexes" : 
+					[
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.box2d-build-Debug-b0d48f70293a24e69cc0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 7,
+					"projectIndex" : 8,
+					"source" : "cmake-build-debug/_deps/box2d-src"
+				},
+				{
+					"build" : "_deps/box2d-build/src",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.box2d-build.src-Debug-4d5a8a8105d26c68bde0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 8,
+					"projectIndex" : 8,
+					"source" : "cmake-build-debug/_deps/box2d-src/src",
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"build" : "_deps/box2d-build/unit-test",
+					"jsonFile" : "directory-_deps.box2d-build.unit-test-Debug-1e3f0a310ed97b9c6f0a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 8,
+					"projectIndex" : 8,
+					"source" : "cmake-build-debug/_deps/box2d-src/unit-test",
+					"targetIndexes" : 
+					[
+						17
+					]
+				},
+				{
+					"build" : "_deps/box2d-build/extern/glad",
+					"jsonFile" : "directory-_deps.box2d-build.extern.glad-Debug-8b0e42177e69b7e0ac8f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 8,
+					"projectIndex" : 8,
+					"source" : "cmake-build-debug/_deps/box2d-src/extern/glad",
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"build" : "_deps/box2d-build/extern/glfw",
+					"jsonFile" : "directory-_deps.box2d-build.extern.glfw-Debug-f72178a99aea9a7b1476.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 8,
+					"projectIndex" : 8,
+					"source" : "cmake-build-debug/_deps/box2d-src/extern/glfw",
+					"targetIndexes" : 
+					[
+						9
+					]
+				},
+				{
+					"build" : "_deps/box2d-build/extern/imgui",
+					"jsonFile" : "directory-_deps.box2d-build.extern.imgui-Debug-c5e0a044bcf152b9f477.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 8,
+					"projectIndex" : 8,
+					"source" : "cmake-build-debug/_deps/box2d-src/extern/imgui",
+					"targetIndexes" : 
+					[
+						14
+					]
+				},
+				{
+					"build" : "_deps/box2d-build/extern/sajson",
+					"jsonFile" : "directory-_deps.box2d-build.extern.sajson-Debug-eb7c7bc6c2ba3ae45491.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 8,
+					"projectIndex" : 8,
+					"source" : "cmake-build-debug/_deps/box2d-src/extern/sajson",
+					"targetIndexes" : 
+					[
+						15
+					]
+				},
+				{
+					"build" : "_deps/box2d-build/testbed",
+					"jsonFile" : "directory-_deps.box2d-build.testbed-Debug-74eab9efa2ca1197d657.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 8,
+					"projectIndex" : 8,
+					"source" : "cmake-build-debug/_deps/box2d-src/testbed",
+					"targetIndexes" : 
+					[
+						16
+					]
+				},
+				{
+					"build" : "MachineDemo",
+					"childIndexes" : 
+					[
+						17
+					],
+					"jsonFile" : "directory-MachineDemo-Debug-c95d68a626c569356d0a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 9,
+					"source" : "MachineDemo",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "_deps/machinedemolib-build",
+					"jsonFile" : "directory-_deps.machinedemolib-build-Debug-f0d01ad90bfd70d23728.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"parentIndex" : 16,
+					"projectIndex" : 10,
+					"source" : "cmake-build-debug/_deps/machinedemolib-src",
+					"targetIndexes" : 
+					[
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						7,
+						9
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CanadianExperience",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "CanadianExperienceLib",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "MachineLib",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						4
+					],
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "Tests",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						5
+					],
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "googletest-distribution",
+					"parentIndex" : 3
+				},
+				{
+					"childIndexes" : 
+					[
+						6
+					],
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "gmock",
+					"parentIndex" : 4,
+					"targetIndexes" : 
+					[
+						10,
+						11
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						6
+					],
+					"name" : "gtest",
+					"parentIndex" : 5,
+					"targetIndexes" : 
+					[
+						12,
+						13
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						8
+					],
+					"directoryIndexes" : 
+					[
+						7
+					],
+					"name" : "MachineTests",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					],
+					"name" : "box2d",
+					"parentIndex" : 7,
+					"targetIndexes" : 
+					[
+						7,
+						8,
+						9,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						10
+					],
+					"directoryIndexes" : 
+					[
+						16
+					],
+					"name" : "MachineDemo",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						17
+					],
+					"name" : "MachineDemoLib",
+					"parentIndex" : 9,
+					"targetIndexes" : 
+					[
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CanadianExperience::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CanadianExperience-Debug-6c7c90be6c6d56fdd490.json",
+					"name" : "CanadianExperience",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "CanadianExperienceLib::@cd064dd08011b6524895",
+					"jsonFile" : "target-CanadianExperienceLib-Debug-cea3676fee5f4de50b85.json",
+					"name" : "CanadianExperienceLib",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "MachineDemo::@ed4e6dec04861a82e8b4",
+					"jsonFile" : "target-MachineDemo-Debug-fcda5331ee79c9c44184.json",
+					"name" : "MachineDemo",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 17,
+					"id" : "MachineDemoLib::@07d94151b53faf3852f7",
+					"jsonFile" : "target-MachineDemoLib-Debug-6847525f064e76aadbcd.json",
+					"name" : "MachineDemoLib",
+					"projectIndex" : 10
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "MachineLib::@abb2310f9ce8b326674a",
+					"jsonFile" : "target-MachineLib-Debug-3aa2058b6b5261883e55.json",
+					"name" : "MachineLib",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "MachineTests_run::@49bfbd4702751a92d26f",
+					"jsonFile" : "target-MachineTests_run-Debug-07124433129c4929d820.json",
+					"name" : "MachineTests_run",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Tests_run::@3e3005ae7443f751ac85",
+					"jsonFile" : "target-Tests_run-Debug-b3f9457c79f61cb178e1.json",
+					"name" : "Tests_run",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "box2d::@20f5237e34ad7ded9806",
+					"jsonFile" : "target-box2d-Debug-50cdeb5458001345e5eb.json",
+					"name" : "box2d",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "glad::@5bb497cce6b1d538244e",
+					"jsonFile" : "target-glad-Debug-49bd5ff589870f2e116d.json",
+					"name" : "glad",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "glfw::@926cb9bb4efcdb82c1a4",
+					"jsonFile" : "target-glfw-Debug-0aa725b31e207c41e3cc.json",
+					"name" : "glfw",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "gmock::@0f7bb11d64f3678238c7",
+					"jsonFile" : "target-gmock-Debug-351391de738fe7f81f30.json",
+					"name" : "gmock",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "gmock_main::@0f7bb11d64f3678238c7",
+					"jsonFile" : "target-gmock_main-Debug-7fa61a4821c9b1f7d439.json",
+					"name" : "gmock_main",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "gtest::@1ea2dfc0605fe3ab2a3f",
+					"jsonFile" : "target-gtest-Debug-dbc81040256c59874457.json",
+					"name" : "gtest",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "gtest_main::@1ea2dfc0605fe3ab2a3f",
+					"jsonFile" : "target-gtest_main-Debug-fef774805a6325d9e282.json",
+					"name" : "gtest_main",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "imgui::@7bed6968fd891d0cfd09",
+					"jsonFile" : "target-imgui-Debug-95b5cd76496c0845cf5b.json",
+					"name" : "imgui",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "sajson::@56e7a0e780975daa4b13",
+					"jsonFile" : "target-sajson-Debug-f0f01b469e7ec85550ef.json",
+					"name" : "sajson",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 15,
+					"id" : "testbed::@19b73ef2e15773fb797a",
+					"jsonFile" : "target-testbed-Debug-9a4077a655a1a200ae52.json",
+					"name" : "testbed",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "unit_test::@0b3ddc69943d2b9a81a1",
+					"jsonFile" : "target-unit_test-Debug-e905697bdb3ac32869f6.json",
+					"name" : "unit_test",
+					"projectIndex" : 8
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/saarthaksharma/CSE 335/sharm157-19/cmake-build-debug",
+		"source" : "/Users/saarthaksharma/CSE 335/sharm157-19"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

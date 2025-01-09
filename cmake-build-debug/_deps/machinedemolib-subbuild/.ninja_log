@@ -1,0 +1,21 @@
+# ninja log v6
+0	27	1736387800778568213	machinedemolib-populate-prefix/src/machinedemolib-populate-stamp/machinedemolib-populate-mkdir	294138b145fa9e74
+0	27	1736387800778568213	/Users/saarthaksharma/CSE 335/sharm157-19/cmake-build-debug/_deps/machinedemolib-subbuild/machinedemolib-populate-prefix/src/machinedemolib-populate-stamp/machinedemolib-populate-mkdir	294138b145fa9e74
+28	681	1736387801432113561	machinedemolib-populate-prefix/src/machinedemolib-populate-stamp/machinedemolib-populate-download	6b83e4d57c01e48c
+28	681	1736387801432113561	/Users/saarthaksharma/CSE 335/sharm157-19/cmake-build-debug/_deps/machinedemolib-subbuild/machinedemolib-populate-prefix/src/machinedemolib-populate-stamp/machinedemolib-populate-download	6b83e4d57c01e48c
+681	1193	1736387801432804395	machinedemolib-populate-prefix/src/machinedemolib-populate-stamp/machinedemolib-populate-update	2f7d08dbe4baf498
+681	1193	1736387801432804395	/Users/saarthaksharma/CSE 335/sharm157-19/cmake-build-debug/_deps/machinedemolib-subbuild/machinedemolib-populate-prefix/src/machinedemolib-populate-stamp/machinedemolib-populate-update	2f7d08dbe4baf498
+1193	1217	1736387801968408939	machinedemolib-populate-prefix/src/machinedemolib-populate-stamp/machinedemolib-populate-patch	4bd8a9d27aba4efc
+1193	1217	1736387801968408939	/Users/saarthaksharma/CSE 335/sharm157-19/cmake-build-debug/_deps/machinedemolib-subbuild/machinedemolib-populate-prefix/src/machinedemolib-populate-stamp/machinedemolib-populate-patch	4bd8a9d27aba4efc
+1217	1243	1736387801993842404	machinedemolib-populate-prefix/src/machinedemolib-populate-stamp/machinedemolib-populate-configure	f00839e2ef4a9e32
+1217	1243	1736387801993842404	/Users/saarthaksharma/CSE 335/sharm157-19/cmake-build-debug/_deps/machinedemolib-subbuild/machinedemolib-populate-prefix/src/machinedemolib-populate-stamp/machinedemolib-populate-configure	f00839e2ef4a9e32
+1243	1270	1736387802020993913	machinedemolib-populate-prefix/src/machinedemolib-populate-stamp/machinedemolib-populate-build	40b2aecac5374168
+1243	1270	1736387802020993913	/Users/saarthaksharma/CSE 335/sharm157-19/cmake-build-debug/_deps/machinedemolib-subbuild/machinedemolib-populate-prefix/src/machinedemolib-populate-stamp/machinedemolib-populate-build	40b2aecac5374168
+1270	1297	1736387802048494922	machinedemolib-populate-prefix/src/machinedemolib-populate-stamp/machinedemolib-populate-install	3254925b3dbb18c1
+1270	1297	1736387802048494922	/Users/saarthaksharma/CSE 335/sharm157-19/cmake-build-debug/_deps/machinedemolib-subbuild/machinedemolib-populate-prefix/src/machinedemolib-populate-stamp/machinedemolib-populate-install	3254925b3dbb18c1
+1297	1325	1736387802075662057	machinedemolib-populate-prefix/src/machinedemolib-populate-stamp/machinedemolib-populate-test	6f415dacac474715
+1297	1325	1736387802075662057	/Users/saarthaksharma/CSE 335/sharm157-19/cmake-build-debug/_deps/machinedemolib-subbuild/machinedemolib-populate-prefix/src/machinedemolib-populate-stamp/machinedemolib-populate-test	6f415dacac474715
+1325	1362	1736387802112950918	CMakeFiles/machinedemolib-populate-complete	bca74ec457d0d1f8
+1325	1362	1736387802112950918	machinedemolib-populate-prefix/src/machinedemolib-populate-stamp/machinedemolib-populate-done	bca74ec457d0d1f8
+1325	1362	1736387802112950918	/Users/saarthaksharma/CSE 335/sharm157-19/cmake-build-debug/_deps/machinedemolib-subbuild/CMakeFiles/machinedemolib-populate-complete	bca74ec457d0d1f8
+1325	1362	1736387802112950918	/Users/saarthaksharma/CSE 335/sharm157-19/cmake-build-debug/_deps/machinedemolib-subbuild/machinedemolib-populate-prefix/src/machinedemolib-populate-stamp/machinedemolib-populate-done	bca74ec457d0d1f8

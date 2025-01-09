@@ -1,0 +1,21 @@
+# ninja log v6
+0	26	1736387798302562830	box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-mkdir	2b2103200fbca595
+0	26	1736387798302562830	/Users/saarthaksharma/CSE 335/sharm157-19/cmake-build-debug/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-mkdir	2b2103200fbca595
+26	1591	1736387799867335092	box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-download	1025ae70c07808ea
+26	1591	1736387799867335092	/Users/saarthaksharma/CSE 335/sharm157-19/cmake-build-debug/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-download	1025ae70c07808ea
+1591	1669	1736387799867988634	box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-update	35b6ba5e4fad7c91
+1591	1669	1736387799867988634	/Users/saarthaksharma/CSE 335/sharm157-19/cmake-build-debug/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-update	35b6ba5e4fad7c91
+1669	1694	1736387799970614201	box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-patch	6d02c3100422a8a3
+1669	1694	1736387799970614201	/Users/saarthaksharma/CSE 335/sharm157-19/cmake-build-debug/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-patch	6d02c3100422a8a3
+1694	1720	1736387799996142374	box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-configure	abf4113933f0e0d1
+1694	1720	1736387799996142374	/Users/saarthaksharma/CSE 335/sharm157-19/cmake-build-debug/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-configure	abf4113933f0e0d1
+1720	1745	1736387800021120754	box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-build	af2769e1dc532f3e
+1720	1745	1736387800021120754	/Users/saarthaksharma/CSE 335/sharm157-19/cmake-build-debug/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-build	af2769e1dc532f3e
+1745	1770	1736387800046431677	box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-install	9c413d64945a2604
+1745	1770	1736387800046431677	/Users/saarthaksharma/CSE 335/sharm157-19/cmake-build-debug/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-install	9c413d64945a2604
+1770	1796	1736387800071867849	box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-test	108726530751adbb
+1770	1796	1736387800071867849	/Users/saarthaksharma/CSE 335/sharm157-19/cmake-build-debug/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-test	108726530751adbb
+1796	1830	1736387800106632664	CMakeFiles/box2d-populate-complete	bb85cfdb57516b9a
+1796	1830	1736387800106632664	box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-done	bb85cfdb57516b9a
+1796	1830	1736387800106632664	/Users/saarthaksharma/CSE 335/sharm157-19/cmake-build-debug/_deps/box2d-subbuild/CMakeFiles/box2d-populate-complete	bb85cfdb57516b9a
+1796	1830	1736387800106632664	/Users/saarthaksharma/CSE 335/sharm157-19/cmake-build-debug/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-done	bb85cfdb57516b9a
